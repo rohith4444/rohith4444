@@ -9,6 +9,7 @@
 
 ## 📫 How to reach me:
   - LinkedIn: [LinkedIn Profile](www.linkedin.com/in/rohith-reddy-mandala)
+  - Hugging Face: [Hugging Face Profile](https://huggingface.co/MRR24)
   - Email: rohithma05@gmail.com
 
 
