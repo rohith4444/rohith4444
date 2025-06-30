@@ -34,7 +34,6 @@ A Python package developed at William & Mary for validating and reviewing geoBou
 
 - Published open-source tools like `pygeoboundaries`  
 - Mentored undergraduates in AI and ML applications at Texas A&M University  
-- Certified in Advanced Prompt Engineering, Production RAG Systems, and LLM Fine-tuning  
 
 ---
 
