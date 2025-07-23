@@ -29,6 +29,20 @@ A Python package developed at William & Mary for validating and reviewing geoBou
 **Tech:** Python, Prefect, Web Scraping, Dataverse API
 
 ---
+## 🏆 Hackathons
+### 🤖 Google Agent Development Kit (ADK) Hackathon - June 2025  
+**Oprina - Conversational AI Avatar Assistant**  
+Built a revolutionary voice-powered AI assistant combining conversational intelligence with interactive avatar technology. The platform transforms email management, calendar scheduling, and productivity tasks into natural voice conversations.
+
+**🏗️ Architecture:** 5-component microservices (Frontend, Backend, AI Agents, Database, External APIs) with specialized Email and Calendar agents powered by Google's Agent Development Kit and deployed on Vertex AI.
+
+**🛠️ Tech Stack:** Google ADK, Vertex AI, React 18 + TypeScript, FastAPI + Python, Supabase, Google Cloud Run, HeyGen Streaming Avatars, Gmail & Calendar APIs, Speech-to-Text & Text-to-Speech
+
+**🎯 Outcome:** Didn't win, but gained incredible experience building and deploying a complete platform in under a month!
+
+**🔗 Links:** [Live Demo](https://www.oprinaai.com) | [GitHub Repository](https://github.com/rohith4444/Oprina_AVAFG)
+
+---
 
 ## 🌟 Contributions & Community Engagement
 
