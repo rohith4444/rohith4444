@@ -1,16 +1,51 @@
-# 👋 Hey, I’m Rohith — AI Enthusiast & Engineer
+# 👋 Hey, I’m Rohith — AI Engineer & Builder
 
-I’m passionate about building machines that think, reason, and act like humans. With over 5 years of experience in data science, software engineering, and AI research, I've worked on **Generative AI**, **Large Language Models (LLMs)**, and **Agentic Systems**.
+I'm passionate about building and shipping AI software systems that solve real-world problems. With over **4+ years** of experience in AI/ML engineering, I have experience in **Conversational AI**, **Large Language Models (LLMs)**, and **Multi-Agent Systems.**
 
-My focus is on creating intelligent systems—like **agent-based architectures** and **Retrieval-Augmented Generation (RAG)** pipelines—that reshape how we interact with knowledge and data.
+My focus is on building intelligent systems to change the way we communicate with computers and create more **personalized AI** experiences that adapt to individual users and business needs.
 
 ---
 
 ## 🛠️ What I Do
 
-- Design agent-based systems for dynamic reasoning and decision-making  
-- Build RAG pipelines to supercharge LLM capabilities  
-- Explore prompt engineering, model alignment, and open-source AI tooling  
+- Build end-to-end conversational AI systems with multi-agent architectures
+- Design and implement RAG pipelines for enterprise knowledge management
+- Explore prompt engineering and context engineering for optimal LLM performance
+- Develop voice AI applications with speech-to-text and text-to-speech integration
+- Create scalable AI solutions from prototype to production deployment
+
+---
+
+## 🏆 Achievements
+
+### 🥇 AI Hackathon Winner - Corp-Agent Vibe Coding (San Francisco, Aug 16, 2025)
+
+**The Challenge:** In a 4-hour sprint, our team tackled a real sales pain point — companies receive tons of inbound calls daily, with sales reps wasting valuable time reviewing call transcripts in CRMs, often spending ~5 minutes per contact just to figure out if a lead is worth pursuing.
+
+**Our Solution:** Built an AI-powered sales-call filtering system (cheekily named "Legit or Sh*t" by the team 😅) that automates the entire lead qualification process using a two-layer AI system that transcribes calls, adds real-time company context, and intelligently classifies them as potential leads, spam, or uncertain.
+
+**Technical Implementation:**
+- **Workflow 1 (Automatic):** Triggered in real-time during live calls, instantly labeling leads before they enter the CRM system
+- **Workflow 2 (Manual):** CRM-integrated batch processing to label and filter existing contacts at scale
+
+**Impact:** Sales teams can save 1000+ hours annually and cut operational costs by ~50% by filtering out low-value calls before they reach the CRM.
+
+**🏆 Outcome:** Won the hackathon for innovative approach, rapid execution, and demonstrable business value in just 4 hours!
+
+---
+
+## 🏆 Hackathons
+### 🤖 Google Agent Development Kit (ADK) Hackathon - June 2025  
+**Oprina - Conversational AI Avatar Assistant**  
+Built a revolutionary voice-powered AI assistant combining conversational intelligence with interactive avatar technology. The platform transforms email management, calendar scheduling, and productivity tasks into natural voice conversations.
+
+**🏗️ Architecture:** 5-component microservices (Frontend, Backend, AI Agents, Database, External APIs) with specialized Email and Calendar agents powered by Google's Agent Development Kit and deployed on Vertex AI.
+
+**🛠️ Tech Stack:** Google ADK, Vertex AI, React 18 + TypeScript, FastAPI + Python, Supabase, Google Cloud Run, HeyGen Streaming Avatars, Gmail & Calendar APIs, Speech-to-Text & Text-to-Speech
+
+**🎯 Outcome:** Didn't win, but gained incredible experience building and deploying a complete platform in under a month!
+
+**🔗 Links:** [Live Demo](https://www.oprinaai.com) | [GitHub Repository](https://github.com/rohith4444/Oprina_AVAFG)
 
 ---
 
@@ -27,20 +62,6 @@ Fine-tuned a Mistral 7B Instruct model with QLoRA for high-quality English–Tel
 ### 🌍 pygeoboundaries  
 A Python package developed at William & Mary for validating and reviewing geoBoundaries shapefiles. Published on PyPI and integrated into open-source workflows.  
 **Tech:** Python, Prefect, Web Scraping, Dataverse API
-
----
-## 🏆 Hackathons
-### 🤖 Google Agent Development Kit (ADK) Hackathon - June 2025  
-**Oprina - Conversational AI Avatar Assistant**  
-Built a revolutionary voice-powered AI assistant combining conversational intelligence with interactive avatar technology. The platform transforms email management, calendar scheduling, and productivity tasks into natural voice conversations.
-
-**🏗️ Architecture:** 5-component microservices (Frontend, Backend, AI Agents, Database, External APIs) with specialized Email and Calendar agents powered by Google's Agent Development Kit and deployed on Vertex AI.
-
-**🛠️ Tech Stack:** Google ADK, Vertex AI, React 18 + TypeScript, FastAPI + Python, Supabase, Google Cloud Run, HeyGen Streaming Avatars, Gmail & Calendar APIs, Speech-to-Text & Text-to-Speech
-
-**🎯 Outcome:** Didn't win, but gained incredible experience building and deploying a complete platform in under a month!
-
-**🔗 Links:** [Live Demo](https://www.oprinaai.com) | [GitHub Repository](https://github.com/rohith4444/Oprina_AVAFG)
 
 ---
 
