@@ -1,6 +1,6 @@
 # 👋 Hey, I’m Rohith — AI Engineer & Builder
 
-I'm passionate about building and shipping AI software systems that solve real-world problems. With over **4+ years** of experience in AI/ML engineering, I have experience in **Conversational AI**, **Large Language Models (LLMs)**, and **Multi-Agent Systems.**
+I build voice-first AI products and multi-agent systems. With **5+ years** of experience in AI/ML engineering, I have experience in **Conversational AI**, **Voice AI**, and **Multi-Agent Systems.**
 
 My focus is on building intelligent systems to change the way we communicate with computers and create more **personalized AI** experiences that adapt to individual users and business needs.
 
@@ -8,11 +8,11 @@ My focus is on building intelligent systems to change the way we communicate wit
 
 ## 🛠️ What I Do
 
-- Build end-to-end conversational AI systems with multi-agent architectures
-- Design and implement RAG pipelines for enterprise knowledge management
-- Explore prompt engineering and context engineering for optimal LLM performance
-- Develop voice AI applications with speech-to-text and text-to-speech integration
-- Create scalable AI solutions from prototype to production deployment
+- Build voice-first AI products with real-time streaming (WebSocket, STT/TTS)
+- Design multi-agent systems with Google ADK and LangChain
+- Ship end-to-end AI applications from prototype to production (GCP, Cloud Run)
+- Develop Chrome extensions with AI integration
+- Create RAG pipelines and LLM-powered applications
 
 ---
 
@@ -50,6 +50,21 @@ Built a revolutionary voice-powered AI assistant combining conversational intell
 ---
 
 ## 🚀 Featured Projects
+
+### 🎙️ AUXIS AI: Voice-First Chrome Extension
+Built a Chrome extension eliminating copy-paste workflows between ChatGPT and Gmail/LinkedIn — compose messages directly in-place using voice.
+
+**Key Features:**
+- Real-time WebSocket streaming transcription
+- Scenario-based AI text generation (OpenAI/Gemini)
+- Context extraction for reply threads
+- Voice dashboard with conversational AI agent
+
+**Tech:** Chrome Extension (Manifest V3), FastAPI, Google Cloud STT/TTS, Vertex AI, OpenAI, Gemini, Supabase, Cloud Run
+
+**Role:** Solo Developer
+
+**🔗 Links:** [Live Demo](https://auxisai.com)
 
 ### 🧠 Agentic Corrective RAG System for Research Paper Queries  
 A production-ready RAG system that synthesizes academic content using multi-retriever setups, LLM-based document evaluation, and smart query rewriting with web search integration.  
